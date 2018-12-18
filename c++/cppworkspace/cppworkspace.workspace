@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppworkspace" Database="" Version="10.0.0">
+  <Project Name="test1" Path="test1/test1.project" Active="No"/>
+  <Project Name="basics" Path="basics/basics.project" Active="No"/>
+  <Project Name="fromTemplate" Path="fromTemplate/fromTemplate.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="test1" ConfigName="Debug"/>
+      <Project Name="basics" ConfigName="Debug"/>
+      <Project Name="fromTemplate" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="test1" ConfigName="Release"/>
+      <Project Name="basics" ConfigName="Release"/>
+      <Project Name="fromTemplate" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
